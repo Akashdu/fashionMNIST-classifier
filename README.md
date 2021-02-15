@@ -82,9 +82,7 @@ Now we are going to plot with prediction several image from our prediction and i
 Please read [CONTRIBUTING.md](https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/CONTRIBUTING.md) for contributing click this link.
 
 
-## Author
 
-* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
 
 
 
