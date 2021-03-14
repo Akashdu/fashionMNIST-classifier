@@ -77,10 +77,6 @@ Now we are going to plot with prediction several image from our prediction and i
  <img src="https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/documentation-images/Annotation%202019-09-17%20001024.png" alt="98">
  <b>I hope you understand and i hope you appreciate my documentation+code snippes i worked more this project thank you to all universe.</b>
  
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/krishnakakade1999/image-classification-and-manipulation-in-python-machine-learning/blob/master/CONTRIBUTING.md) for contributing click this link.
-
 
 
 
